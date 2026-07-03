@@ -4,5 +4,5 @@ numpy
 plotly
 scikit-learn
 prophet
-openpyxl
 matplotlib
+openpyxl
