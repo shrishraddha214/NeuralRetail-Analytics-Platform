@@ -18,10 +18,9 @@ An end-to-end **Retail Analytics Platform** built using **Python, Streamlit, Mac
 
 ---
 
-
 ## 🔮 Revenue Forecast Dashboard
 
-![Revenue Forecast](screenshots/revenue_forecasting.png)
+![Revenue Forecast](screenshots/revenue_forecast.png)
 
 ---
 
