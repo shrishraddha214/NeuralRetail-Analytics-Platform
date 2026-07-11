@@ -18,7 +18,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\91895\OneDrive\Desktop\NeuralRetail\data\processed\dashboard_dataset.csv")
+    df = pd.read_csv("data/processed/dashboard_dataset.csv")
     df["InvoiceDate"] = pd.to_datetime(df["InvoiceDate"])
     return df
 

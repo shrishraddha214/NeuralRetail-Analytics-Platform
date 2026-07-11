@@ -21,7 +21,7 @@ st.title("⚠️ Customer Churn Prediction Dashboard")
 @st.cache_data
 def load_data():
     df = pd.read_csv(
-        r"C:\Users\91895\OneDrive\Desktop\NeuralRetail\data\processed\dashboard_dataset.csv"
+        "data/processed/dashboard_dataset.csv"
     )
     return df
 

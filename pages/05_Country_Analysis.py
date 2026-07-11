@@ -21,9 +21,7 @@ st.title("🌍 Country Analysis Dashboard")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv(
-        r"C:\Users\91895\OneDrive\Desktop\NeuralRetail\data\processed\dashboard_dataset.csv"
-    )
+    return pd.read_csv("data/processed/dashboard_dataset.csv")
 
 df = load_data()
 

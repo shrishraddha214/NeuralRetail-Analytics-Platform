@@ -19,6 +19,3 @@ env/
 
 # IDE
 .vscode/
-
-# Large/processed data
-# data/processed/dashboard_dataset.csv
