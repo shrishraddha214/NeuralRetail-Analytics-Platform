@@ -183,6 +183,6 @@ This project was developed for educational and internship purposes.
 ---
 ## 🚀 Live Demo
 
-🔗 https://<your-app-name>.streamlit.app
+🔗 https://neuralretail-analytics-platform.streamlit.app
 
 ---
