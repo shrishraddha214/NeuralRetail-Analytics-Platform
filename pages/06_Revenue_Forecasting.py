@@ -22,8 +22,6 @@ st.title("📈 Revenue Forecast Dashboard")
 @st.cache_data
 def load_data():
 
-    # forecast = pd.read_csv("data/processed/dashboard_dataset.csv")
-    # actual = pd.read_csv( "data/processed/daily_sales.csv")
     forecast = pd.read_csv("data/processed/revenue_forecast.csv")
     actual = pd.read_csv("data/processed/daily_sales.csv")
 
